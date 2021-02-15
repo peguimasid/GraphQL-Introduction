@@ -5,9 +5,7 @@
   </a>
 </p>
 
-> 🦄. Small project to learning about GraphQL
-
-
+> 🦄. Initial concepts about GraphQL
 
 ## Install
 
